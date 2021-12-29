@@ -1,3 +1,5 @@
-# hello_world
-just 
-readme.txt
+# 怎么创建第一个代码啊
+##  入门有点难
+- 第一个Java程序
+- 第一个android程序
+- 第一个微信小程序
